@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/AEMTigerTeam"/>
+    <filter root="/content/AEMTigerTeam"/>
+    <filter root="/content/dam/AEMTigerTeam"/>
+</workspaceFilter>
